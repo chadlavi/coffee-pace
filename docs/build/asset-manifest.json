@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coffe-pacer/static/css/main.c70acac0.chunk.css",
+    "main.js": "/coffe-pacer/static/js/main.a70dbf1c.chunk.js",
+    "main.js.map": "/coffe-pacer/static/js/main.a70dbf1c.chunk.js.map",
+    "runtime-main.js": "/coffe-pacer/static/js/runtime-main.bf998166.js",
+    "runtime-main.js.map": "/coffe-pacer/static/js/runtime-main.bf998166.js.map",
+    "static/js/2.a50cb0e1.chunk.js": "/coffe-pacer/static/js/2.a50cb0e1.chunk.js",
+    "static/js/2.a50cb0e1.chunk.js.map": "/coffe-pacer/static/js/2.a50cb0e1.chunk.js.map",
+    "index.html": "/coffe-pacer/index.html",
+    "static/css/main.c70acac0.chunk.css.map": "/coffe-pacer/static/css/main.c70acac0.chunk.css.map",
+    "static/js/2.a50cb0e1.chunk.js.LICENSE.txt": "/coffe-pacer/static/js/2.a50cb0e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf998166.js",
+    "static/js/2.a50cb0e1.chunk.js",
+    "static/css/main.c70acac0.chunk.css",
+    "static/js/main.a70dbf1c.chunk.js"
+  ]
+}
