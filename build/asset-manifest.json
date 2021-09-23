@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coffee-pacer/static/css/main.c70acac0.chunk.css",
+    "main.js": "/coffee-pacer/static/js/main.a70dbf1c.chunk.js",
+    "main.js.map": "/coffee-pacer/static/js/main.a70dbf1c.chunk.js.map",
+    "runtime-main.js": "/coffee-pacer/static/js/runtime-main.91d64dc3.js",
+    "runtime-main.js.map": "/coffee-pacer/static/js/runtime-main.91d64dc3.js.map",
+    "static/js/2.a50cb0e1.chunk.js": "/coffee-pacer/static/js/2.a50cb0e1.chunk.js",
+    "static/js/2.a50cb0e1.chunk.js.map": "/coffee-pacer/static/js/2.a50cb0e1.chunk.js.map",
+    "index.html": "/coffee-pacer/index.html",
+    "static/css/main.c70acac0.chunk.css.map": "/coffee-pacer/static/css/main.c70acac0.chunk.css.map",
+    "static/js/2.a50cb0e1.chunk.js.LICENSE.txt": "/coffee-pacer/static/js/2.a50cb0e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91d64dc3.js",
+    "static/js/2.a50cb0e1.chunk.js",
+    "static/css/main.c70acac0.chunk.css",
+    "static/js/main.a70dbf1c.chunk.js"
+  ]
+}
